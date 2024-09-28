@@ -1,0 +1,11 @@
+User-Agent: *
+Disallow: 
+
+Sitemap: https://jecentero.github.io/sitemap.html.gz
+Sitemap: https://jecentero.github.io/app/sitemap.html.gz
+Sitemap: https://jecentero.github.io/assets/sitemap.html.gz
+Sitemap: https://jecentero.github.io/css/sitemap.html.gz
+Sitemap: https://jecentero.github.io/data/sitemap.html.gz
+Sitemap: https://jecentero.github.io/includes/sitemap.html.gz
+Sitemap: https://jecentero.github.io/item/sitemap.html.gz
+Sitemap: https://jecentero.github.io/src/sitemap.html.gz
